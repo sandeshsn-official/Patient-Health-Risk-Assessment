@@ -176,7 +176,7 @@ to provide an end-to-end intelligent healthcare risk assessment system.
 
 ## Screenshots
 
-Home Page
+### Home Page
 
 <img width="1882" height="526" alt="image" src="https://github.com/user-attachments/assets/be0e8729-7dab-4c23-a91f-ace21c0ed105" />
 
