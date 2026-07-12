@@ -174,7 +174,7 @@ The application successfully integrates:
 
 to provide an end-to-end intelligent healthcare risk assessment system.
 
-Screenshots
+## Screenshots
 
 Home Page
 
