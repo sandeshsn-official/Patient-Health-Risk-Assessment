@@ -174,6 +174,28 @@ The application successfully integrates:
 
 to provide an end-to-end intelligent healthcare risk assessment system.
 
+Screenshots
+
+Home Page
+
+<img width="1882" height="526" alt="image" src="https://github.com/user-attachments/assets/be0e8729-7dab-4c23-a91f-ace21c0ed105" />
+
+
+### Prediction Result
+
+<img width="1905" height="857" alt="image" src="https://github.com/user-attachments/assets/f3ae7f5f-8b09-46d0-8292-02a9327bc086" />
+
+
+### SHAP Explanation
+
+<img width="1871" height="826" alt="image" src="https://github.com/user-attachments/assets/b2654f21-ad60-48a8-9db4-d97453597378" />
+
+
+### AI Generated Report
+
+<img width="1806" height="290" alt="image" src="https://github.com/user-attachments/assets/7be2dcc6-ecc9-4a14-a8bb-e4d095b4c830" />
+
+
 
 ## 🔮 Future Improvements
 
